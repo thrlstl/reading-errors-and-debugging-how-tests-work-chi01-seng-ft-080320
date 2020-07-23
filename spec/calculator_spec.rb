@@ -1,5 +1,7 @@
 # Code your solution in calculator.rb
 
+first_number = "Hello world!"
+
 describe "./calculator.rb" do
 
   it "contains a local variable called first_number that is assigned to a number" do
